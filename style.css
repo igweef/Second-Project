@@ -1,0 +1,211 @@
+
+html{box-sizing: border-box;}
+.general{
+    display: inline;
+}
+.overall{
+    width: 90%;
+}
+.container{
+    width:30%;
+    margin: auto;
+    float: right;
+}
+.question{
+    background-color: whitesmoke;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-right: 60px;
+    padding-left: 40px;
+}
+body h1{color:grey;
+font-size:100%;
+line-height:1.6em;
+margin-bottom: 5px;
+}
+.fname{
+    color: grey;
+    font-size: 100%;
+    line-height: 1.6em;
+    padding-top:11px;
+}
+.fname1{
+    color: grey;
+    font-size: 100%;
+    line-height: 1.6em;
+    margin-top: 0px;
+}
+body h2{ 
+    background: orange;
+    line-height: 1.6em;
+    text-align: center;
+    width: auto;
+    color: white;
+}
+body li:first-child{
+    list-style: none;
+    border-spacing: 20em;
+    text-align: left;
+    border: 1px solid green;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    border-radius: 0.5em;
+    color: green;
+}
+body li:nth-child(2){
+    list-style: none;
+    border-spacing: 20em;
+    text-align: left;
+    border: 1px solid #333;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    border-radius: 0.5em;
+}
+body li:nth-child(3){
+    list-style: none;
+    border-spacing: 20em;
+    text-align: left;
+    border: 1px solid #333;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    border-radius: 0.5em;     
+}
+body li:last-child{
+    list-style: none;
+    border-spacing: 20em;
+    text-align: left;
+    border: 1px solid #333;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    border-radius: 0.5em;
+    background-color: red;
+    color: white;
+}
+body h3{
+    border: 1px solid #333;
+    text-align: center
+}
+body li{
+    margin-bottom: 20px;
+}
+.container-1{
+    width:30%;
+    margin: auto;
+}
+.question-1{
+    background-color: whitesmoke;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-right: 60px;
+    padding-left: 40px;
+}
+.first li:first-child{
+    list-style: none;
+    border-spacing: 20em;
+    text-align: left;
+    border: 1px solid green;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    color: white;
+    background-color: green;
+}
+ .first li:last-child{
+    list-style: none;
+    border-spacing: 20em;
+    text-align: left;
+    border: 1px solid #333;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    color: black;
+    background-color: whitesmoke;
+    }
+    .container-2{
+        width:30%;
+        float: left;
+        margin:auto;
+    }
+    .question-2{
+        background-color: whitesmoke;
+        text-align: center;
+        padding-bottom: 20px;
+        padding-right: 60px;
+        padding-left: 40px;
+    }
+    .second li:first-child{
+        list-style: none;
+        border-spacing: 20em;
+        text-align: left;
+        border: 1px solid green;
+        padding-bottom: 6px;
+        padding-left: 10px;
+        color: black;
+        background-color:whitesmoke;
+        }
+     .second li:last-child{
+        list-style: none;
+        border-spacing: 20em;
+        text-align: left;
+        border: 1px solid #333;
+        padding-bottom: 6px;
+        padding-left: 10px;
+        color: black;
+        background-color: whitesmoke;
+        }
+    .bucket{
+        width: 30%;
+        margin: auto;
+        background-color: whitesmoke;
+        text-align: center;
+        padding-bottom: 60px;
+        padding-right: 60px;
+        padding-left: 40px;
+    }
+    #show{
+        color: white;
+    }
+#showcase{
+    height: 45px;
+    background:url('../jotter.jpg') no-repeat;
+    width: 100%;
+    background-position-x: 50px;
+    background-position-y: -100px;
+}
+.box img{
+    width: 80px;
+    height:80px;
+    float: left;
+}
+.box-1 img{
+    width: 80px;
+    height:80px;
+    float: left;
+    padding-left: 80px;
+}
+.box-2 img{
+    width: 80px;
+    height:80px;
+    float: center;
+    padding-left: 40px;
+}
+#topic{
+    padding-top: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#conc1{
+    list-style: inherit;
+    border-style: none;
+    color:black;
+    float: left;
+    font-style: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-small;
+}
+#conc2{
+    list-style: inherit;
+    border-style: none;
+    color:black;
+    background-color: whitesmoke;
+    float:right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-small;
+}
